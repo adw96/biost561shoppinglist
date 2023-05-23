@@ -19,6 +19,10 @@ Meals to make: apple pie, summer roll, others...
 - fresh basil leaves
 - fresh mint leaves
 - rice paper sheets
+- yogurt
+- mushroom
+- bacon
+
 
 **Produce List**
 - McIntosh red apples
@@ -26,6 +30,7 @@ Meals to make: apple pie, summer roll, others...
 - Driscoll's sweetest batch fresh blueberries
 - strawberries
 - peanut sauce
+- banana
 
 **Freezer List**
 - ice cream (vanilla, Butter Pecan, chocolate)
