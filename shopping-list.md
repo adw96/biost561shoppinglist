@@ -20,7 +20,7 @@ Meals to make: apple pie, summer roll, others...
 - fresh mint leaves
 - rice paper sheets
 - Trader Joe's peaches & cream yogurt cups
-- mushroom
+- mushroom 
 - bacon
 - protein powder (chocolate)
 - Parmesan
@@ -56,6 +56,8 @@ Meals to make: apple pie, summer roll, others...
 - Mango
 - Strawberry
 - Dragon Fruit
+- Passion Fruit
+- Orange
 
 **Allergy List**
 - Green Onions
