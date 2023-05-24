@@ -29,7 +29,6 @@ Meals to make: apple pie, summer roll, others...
 - Potato Chips
 - Hershey's Chewy Chips
 
-
 **Produce List**
 - McIntosh red apples
 - Driscoll's sweetest batch fresh blackberries
@@ -51,13 +50,14 @@ Meals to make: apple pie, summer roll, others...
 - Jasmine Green Milk Tea
 - Coke
 - Strawberry Lemonade
+- Red wine (Tamarack)
 
 **Fruit List**
 - Blueberry
 - Mango
 - Strawberry
 - Dragon Fruit
-
+- Banana
 
 **Allergy List**
 - Green Onions
