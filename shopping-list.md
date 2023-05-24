@@ -48,11 +48,14 @@ Meals to make: apple pie, summer roll, others...
 - Green Tea
 - Asahi Calpico
 - Jasmine Green Milk Tea
+- Coke
+- Strawberry Lemonade
 
 **Fruit List**
 - Blueberry
 - Mango
 - Strawberry
+- Dragon Fruit
 
 **Allergy List**
 - Green Onions
