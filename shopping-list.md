@@ -56,6 +56,7 @@ Meals to make: apple pie, summer roll, others...
 - Mango
 - Strawberry
 - Dragon Fruit
+- Dried prunes
 
 **Allergy List**
 - Green Onions
