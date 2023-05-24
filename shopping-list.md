@@ -26,6 +26,8 @@ Meals to make: apple pie, summer roll, others...
 - Parmesan
 - Trader Joe's chocolate muffin
 - Cream Cheese Brioche
+- Potato Chips
+- Hershey's Chewy Chips
 
 
 **Produce List**
