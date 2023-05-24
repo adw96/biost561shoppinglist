@@ -19,7 +19,7 @@ Meals to make: apple pie, summer roll, others...
 - fresh basil leaves
 - fresh mint leaves
 - rice paper sheets
-- yogurt
+- Trader Joe's peaches & cream yogurt cups
 - mushroom
 - bacon
 - protein powder (chocolate)
@@ -33,6 +33,7 @@ Meals to make: apple pie, summer roll, others...
 - strawberries
 - peanut sauce
 - banana
+- jackfruit
 
 **Freezer List**
 - ice cream (vanilla, Butter Pecan, chocolate)
