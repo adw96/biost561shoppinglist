@@ -56,11 +56,13 @@ Meals to make: apple pie, summer roll, others...
 - Mango
 - Strawberry
 - Dragon Fruit
-- Passion Fruit
-- Orange
+
 
 **Allergy List**
 - Green Onions
+
+**Misc.**
+- kitty treats
 
 Notes:
 - Need to get a head count to assess quantities
