@@ -7,7 +7,7 @@ Meals to make: apple pie, summer roll, others...
 - baking soda
 - sugar
 - butter
-- Grade AA eggs
+- Grade AA eggs (2 dozen)
 - snail powder
 - Thomas' everything bagels
 - Philadelphia cream cheese (since 1872)
@@ -40,7 +40,7 @@ Meals to make: apple pie, summer roll, others...
 - jackfruit
 
 **Freezer List**
-- ice cream (vanilla, Butter Pecan, chocolate)
+- ice cream (vanilla, Butter Pecan, chocolate, strawberry)
 - Ben & Jerry's Strawberry Cheesecake Ice Cream x2
 - Trader Joes' Green Tea Mochi
 - Whole Food's Organic Mango Greek Yogurt Bar
