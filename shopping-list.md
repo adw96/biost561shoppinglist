@@ -20,7 +20,7 @@ Meals to make: apple pie, summer roll, others...
 - fresh mint leaves
 - rice paper sheets
 - Trader Joe's peaches & cream yogurt cups
-- mushroom 
+- mushroom (A LOOOOOOT)
 - bacon
 - protein powder (chocolate)
 - Parmesan
