@@ -60,6 +60,9 @@ Meals to make: apple pie, summer roll, others...
 **Allergy List**
 - Green Onions
 
+**Misc.**
+- kitty treats
+
 Notes:
 - Need to get a head count to assess quantities
 - Must note down allergy/dietary restrictions
