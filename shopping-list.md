@@ -22,7 +22,7 @@ Meals to make: apple pie, summer roll, others...
 - yogurt
 - mushroom
 - bacon
-- protein powder
+- protein powder (chocolate)
 
 
 **Produce List**
