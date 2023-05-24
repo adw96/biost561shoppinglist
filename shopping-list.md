@@ -9,7 +9,7 @@ Meals to make: apple pie, summer roll, others...
 - butter
 - Grade AA eggs
 - snail powder
-- everything bagels
+- Thomas' everything bagels
 - Philadelphia cream cheese (since 1872)
 - rice vermicelli noodles
 - carrot
@@ -23,6 +23,7 @@ Meals to make: apple pie, summer roll, others...
 - mushroom
 - bacon
 - protein powder (chocolate)
+- Parmesan
 
 
 **Produce List**
