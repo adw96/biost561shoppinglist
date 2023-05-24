@@ -24,6 +24,8 @@ Meals to make: apple pie, summer roll, others...
 - bacon
 - protein powder (chocolate)
 - Parmesan
+- Trader Joe's chocolate muffin
+- Cream Cheese Brioche
 
 
 **Produce List**
