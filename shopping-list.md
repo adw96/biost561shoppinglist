@@ -28,6 +28,7 @@ Meals to make: apple pie, summer roll, others...
 - Cream Cheese Brioche
 - Potato Chips
 - Hershey's Chewy Chips
+- fresh sourdough loaf
 
 **Produce List**
 - McIntosh red apples
