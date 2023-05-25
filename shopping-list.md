@@ -36,7 +36,7 @@ Meals to make: apple pie, summer roll, others...
 
 **Freezer List**
 - ice cream (vanilla, Butter Pecan, chocolate)
-- Ben & Jerry's Strawberry Cheesecake Ice Cream x2
+- Ben & Jerry's Strawberry Cheesecake Ice Cream x3
 - Trader Joes' Green Tea Mochi
 
 **Drink List**
