@@ -7,7 +7,7 @@ Meals to make: apple pie, summer roll, others...
 - baking soda
 - sugar
 - butter
-- Grade AA eggs
+- Grade AA eggs (2 dozen)
 - snail powder
 - Thomas' everything bagels
 - Philadelphia cream cheese (since 1872)
@@ -19,12 +19,15 @@ Meals to make: apple pie, summer roll, others...
 - fresh basil leaves
 - fresh mint leaves
 - rice paper sheets
-- yogurt
-- mushroom
+- Trader Joe's peaches & cream yogurt cups
+- mushroom (A LOOOOOOT)
 - bacon
 - protein powder (chocolate)
 - Parmesan
-
+- Trader Joe's chocolate muffin
+- Cream Cheese Brioche
+- Potato Chips
+- Hershey's Chewy Chips
 
 **Produce List**
 - McIntosh red apples
@@ -33,24 +36,34 @@ Meals to make: apple pie, summer roll, others...
 - strawberries
 - peanut sauce
 - banana
+- jackfruit
 
 **Freezer List**
-- ice cream (vanilla, Butter Pecan, chocolate)
+- ice cream (vanilla, Butter Pecan, chocolate, strawberry)
 - Ben & Jerry's Strawberry Cheesecake Ice Cream x3
 - Trader Joes' Green Tea Mochi
+- Whole Food's Organic Mango Greek Yogurt Bar
 
 **Drink List**
 - Green Tea
 - Asahi Calpico
 - Jasmine Green Milk Tea
+- Coke
+- Strawberry Lemonade
+- Red wine (Tamarack)
 
 **Fruit List**
 - Blueberry
 - Mango
 - Strawberry
+- Dragon Fruit
+- Banana
 
 **Allergy List**
 - Green Onions
+
+**Misc.**
+- kitty treats
 
 Notes:
 - Need to get a head count to assess quantities
