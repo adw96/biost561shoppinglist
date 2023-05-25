@@ -29,6 +29,7 @@ Meals to make: apple pie, summer roll, others...
 - Potato Chips
 - Hershey's Chewy Chips
 - fresh sourdough loaf
+- Trader Joe's Butter Waffle Cookies
 
 **Produce List**
 - McIntosh red apples
