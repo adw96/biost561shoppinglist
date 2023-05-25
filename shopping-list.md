@@ -44,6 +44,7 @@ Meals to make: apple pie, summer roll, others...
 - Ben & Jerry's Strawberry Cheesecake Ice Cream x3
 - Trader Joes' Green Tea Mochi
 - Whole Food's Organic Mango Greek Yogurt Bar
+- Trader Joes' Mango Cream Bar
 
 **Drink List**
 - Green Tea
