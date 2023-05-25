@@ -28,6 +28,7 @@ Meals to make: apple pie, summer roll, others...
 - Cream Cheese Brioche
 - Potato Chips
 - Hershey's Chewy Chips
+- coconut milk
 
 **Produce List**
 - McIntosh red apples
@@ -37,6 +38,8 @@ Meals to make: apple pie, summer roll, others...
 - peanut sauce
 - banana
 - jackfruit
+- broccoli
+- cauliflower
 
 **Freezer List**
 - ice cream (vanilla, Butter Pecan, chocolate, strawberry)
