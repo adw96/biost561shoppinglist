@@ -23,7 +23,7 @@ Meals to make: apple pie, summer roll, others...
 - mushroom (A LOOOOOOT)
 - bacon
 - protein powder (chocolate)
-- Parmesan
+- Parmigiano Reggiano
 - Trader Joe's chocolate muffin
 - Cream Cheese Brioche
 - Potato Chips
