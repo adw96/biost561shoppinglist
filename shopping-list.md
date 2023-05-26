@@ -26,7 +26,7 @@ Meals to make: apple pie, summer roll, others...
 - Parmigiano Reggiano
 - Trader Joe's chocolate muffin
 - Cream Cheese Brioche
-- Potato Chips
+- Lay's Potato Chips
 - Hershey's Chewy Chips
 - fresh sourdough loaf
 - Trader Joe's Butter Waffle Cookies
@@ -39,6 +39,11 @@ Meals to make: apple pie, summer roll, others...
 - peanut sauce
 - banana
 - jackfruit
+
+**RAW BAR**
+- Olympia, Kusshi, Hama Hama Oysters
+- Geoduck
+- Smelt (To be fried)
 
 **Freezer List**
 - ice cream (vanilla, Butter Pecan, chocolate, strawberry)
@@ -63,7 +68,7 @@ Meals to make: apple pie, summer roll, others...
 - Banana
 
 **Decadence**
-- Lay's Potato Chips
+- (Potato exist above - edited to Lay's)
 - Creme Fraiche
 - Caviar
 
