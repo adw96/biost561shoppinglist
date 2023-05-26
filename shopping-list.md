@@ -62,6 +62,11 @@ Meals to make: apple pie, summer roll, others...
 - Dragon Fruit
 - Banana
 
+**Decadence**
+- Lay's Potato Chips
+- Creme Fraiche
+- Caviar
+
 **Allergy List**
 - Green Onions
 
