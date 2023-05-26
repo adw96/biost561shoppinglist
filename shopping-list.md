@@ -59,6 +59,7 @@ Meals to make: apple pie, summer roll, others...
 - Coke
 - Strawberry Lemonade
 - Red wine (Tamarack)
+- Champagne (see: Decadence)
 
 **Fruit List**
 - Blueberry
