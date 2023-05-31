@@ -26,10 +26,11 @@ Meals to make: apple pie, summer roll, others...
 - Parmigiano Reggiano
 - Trader Joe's chocolate muffin
 - Cream Cheese Brioche
-- Potato Chips
+- Lay's Potato Chips
 - Hershey's Chewy Chips
 - coconut milk
 - fresh sourdough loaf
+- Trader Joe's Butter Waffle Cookies
 
 **Produce List**
 - McIntosh red apples
@@ -42,11 +43,17 @@ Meals to make: apple pie, summer roll, others...
 - broccoli
 - cauliflower
 
+**RAW BAR**
+- Olympia, Kusshi, Hama Hama Oysters
+- Geoduck
+- Smelt (To be fried)
+
 **Freezer List**
 - ice cream (vanilla, Butter Pecan, chocolate, strawberry)
 - Ben & Jerry's Strawberry Cheesecake Ice Cream x3
 - Trader Joes' Green Tea Mochi
 - Whole Food's Organic Mango Greek Yogurt Bar
+- Trader Joes' Mango Cream Bar
 
 **Drink List**
 - Green Tea
@@ -55,6 +62,7 @@ Meals to make: apple pie, summer roll, others...
 - Coke
 - Strawberry Lemonade
 - Red wine (Tamarack)
+- Champagne (see: Decadence)
 
 **Fruit List**
 - Blueberry
@@ -62,6 +70,11 @@ Meals to make: apple pie, summer roll, others...
 - Strawberry
 - Dragon Fruit
 - Banana
+
+**Decadence**
+- (Potato exist above - edited to Lay's)
+- Creme Fraiche
+- Caviar
 
 **Allergy List**
 - Green Onions
