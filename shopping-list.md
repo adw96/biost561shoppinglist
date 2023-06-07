@@ -70,6 +70,7 @@ Meals to make: apple pie, summer roll, others...
 - Strawberry
 - Dragon Fruit
 - Banana
+- Tangerine
 
 **Decadence**
 - (Potato exist above - edited to Lay's)
