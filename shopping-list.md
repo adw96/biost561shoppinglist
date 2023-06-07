@@ -31,6 +31,7 @@ Meals to make: apple pie, summer roll, others...
 - coconut milk
 - fresh sourdough loaf
 - Trader Joe's Butter Waffle Cookies
+- Almond butter
 
 **Produce List**
 - McIntosh red apples
